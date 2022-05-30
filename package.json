@@ -1,0 +1,26 @@
+{
+  "name": "express-generator",
+  "version": "1.0.0",
+  "description": "Praticando as atividades do playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isocabp/express-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isocabp/express-generator/issues"
+  },
+  "homepage": "https://github.com/isocabp/express-generator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
